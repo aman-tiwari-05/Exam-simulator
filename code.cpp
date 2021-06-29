@@ -123,6 +123,9 @@ int main()
 
 
    u1.show_result();
+   string endd;
+   getline(cin,endd);
+
 
 
     return 0;
