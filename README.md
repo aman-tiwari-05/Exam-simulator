@@ -1,3 +1,3 @@
 # Exam-simulator
-This is demo file with one subject with  two topics namely quiz and quiz1
-You have to enter subject1 as input for subject and either quiz or quiz1 for topic
+This is demo file with one subject Science with  two topics namely Physics and Chemistry
+You have to enter Science as input for subject and either Physics or Chemistry for topic
