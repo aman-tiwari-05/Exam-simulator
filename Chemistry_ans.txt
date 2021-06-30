@@ -1,0 +1,5 @@
+a)6 b)8 c)10 d)12 b
+a)74 b)68 c)32 d)26 c
+a)2 b)1 c)3 d)5 d
+a)positive b)NEUTRAL c)NEGATIVE d)NONE b
+a)Interstitial b)Vacancy c)Frankel d)none b

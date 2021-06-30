@@ -1,0 +1,5 @@
+a)Closed_surface b)Spherical_surface c)Gaussian_surface d)Plane_surface c
+a)Coulomb b)Newton c)Volt d)N/C d
+a)4 b)1/4 c)-4 d)-1/4 d
+a)electric_flux b)electric_field c)electric_potential d)electric_current b
+a)field_strength b)direction c)nature_of_charge d)all_of_these d
