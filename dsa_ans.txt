@@ -1,0 +1,20 @@
+a.O(n) b.O(logn) c.O(n2) d.O(nlogn) b
+a.internal_change b.inter_modular_change c.side_effect d.side_module_update c
+a.O(n) b.O(logn) c.O(n2) d.O(nlogn) d
+a.O(n) b.O(logn) c.O(n2) d.O(nlogn) a
+a.Trees b.Graphs c.Arrays d.None_of_above c
+a.Arrays b.Linked_lists c.Both_of_above d.None_of_above d
+a.Processor_and_memory b.Complexity_and_capacity c.Time_and_space d.Data_and_space c
+a.Traversal b.Search c.Sort d.None_of_above b
+a.Best_case b.Worst_case c.Average_case d.Null_case d
+a.Sorting b.Merging c.Inserting d.Traversal d
+a.the_name_of_array b.the_data_type_of_array c.data_to_be_stored d.the_index_set_of_the_array c
+a.O(n) b.O(log) c.O(n2) d.O(nlogn) b
+a.Ο(n2) b.Ο(nlogn) c.Ο(n3) d.Ο(n) d
+a.Branch b.Tree c.Queue d.Stack d
+a.Inorder b.Preorder c.Postorder d.None_of_the_above c
+a.n-ary tree b.queue c.priority_queue d.stack d
+a.AVAIL b.FRONT c.REAR d.NULL a
+a.AB+CD*E–FG b.AB+CD*E–F**G/ c.AB+CD*E–*F*G/ d.AB+CDE*–*F*G/c
+a.Dn=nlog2n b.Dn=nlog2n+1 c.Dn=log2n d.Dn=log2n+1d
+a.Queue b.Circular_queue c.Dequeue d.Priority_queuec

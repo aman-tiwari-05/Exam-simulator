@@ -1,0 +1,20 @@
+Which of the following is a correct identifier in C++?
+Which operator has highest precedence?
+Who created C++ ?
+Which of the following is the address operator ?
+Which of the following is the correct syntax to read the single character to console in the C++ language?
+Which of the following comment syntax is correct to create a single-line comment in the C++ program ?
+For inserting a new line in C++ program, which one of the following statements can be used ?
+If we stored five elements or data items in an array, what will be the index address or the index number of the array's last data item ?
+Which of the following gives the 4th element of the array ?
+Which type of memory is used by an Array in C++ programming language ?
+Which of the following is the correct syntax for printing the address of the first element ?
+Which of the following gives the [value] stored at the address pointed to by the pointer : ptr?
+A pointer can be initialized with ?
+Generic pointers can be declared with__________ .
+void pointer cannot point to which of these?
+Referencing a value through a pointer is called ?
+Which header file is required to use file I/O operations?
+Which of the following is not used as a file opening mode?
+By default, all the files in C++ are opened in _________ mode.
+Which function is used in C++ to get the current position of file pointer in a file?

@@ -1,0 +1,20 @@
+The complexity of Bubble sort algorithm is
+If the values of a variable in one module is indirectly changed by another module, this situation is called
+The complexity of merge sort algorithm is
+The complexity of linear search algorithm is
+Which of the following data structure is linear data structure?
+Which of the following data structure is not linear data structure?
+Two main measures for the efficiency of an algorithm are
+Finding the location of the element with a given value is:
+Which of the following case does not exist in complexity theory
+The operation of processing each element in the list is known as
+Each array declaration need not give, implicitly or explicitly, the information about
+The complexity of Binary search algorithm is
+What is the worst case run-time complexity of binary search algorithm?
+Which data structure is needed to convert infix notation to postfix notation?
+One can convert a binary tree to its mirror image by traversing it in
+Which of the following data structures can be used for parentheses matching?
+In case of insertion into a linked queue, a node borrowed from the __________ list is inserted in the queue.
+The postfix form of the expression (A+ B)*(C*D- E)*F / G is?
+The depth of complete binary tree is given by
+A data structure in which elements can be inserted or deleted at/from both the ends but nQueue

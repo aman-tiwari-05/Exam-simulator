@@ -1,0 +1,20 @@
+Which of the following language was developed as the first purely object programming language?
+Who developed object-oriented programming?
+Which of the following is not an OOPS concept?
+Which feature of OOPS described the reusability of code?
+Which of the following language supports polymorphism but not the classes?
+Which among the following feature is not in the general definition of OOPS?
+Which feature of OOPS derives the class from another class?
+Define the programming language, which does not support all four types of inheritance?
+A single program of OOPS contains _______ classes?
+Which operator from the following can be used to illustrate the feature of polymorphism?
+What is the extra feature in classes which was not in the structures?
+Which header file is required by the C++ programming language to use the OOPS concept?
+Which of the following OOP concept binds the code and data together and keeps them secure from the outside world?
+Which among the following cannot be used for the concept of polymorphism?
+Which function best describe the concept of polymorphism in programming languages?
+If same message is passed to objects of several different classes and all of those can respond in a different way, what is this feature called?
+Which Feature of OOP illustrated the code reusability?
+When OOP concept did first came into picture?
+Which among the following can show polymorphism?
+A base class is also known as _____________ class.
