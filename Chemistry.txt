@@ -1,5 +1,0 @@
-1.The total number of tetrahedral voids in the face centred unit cell is __________.
-2.The percentage of empty space in a body centred cubic arrangement is________.
-3.To get a n-type semiconductor from silicon, it should be doped with asubstance with valence__________.
-4.Which of the following is true about the charge acquired by p-type semiconductors?
-5.Which of the following defects decrease the density?
